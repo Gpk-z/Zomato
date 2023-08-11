@@ -22,10 +22,17 @@ In spite of increasing demand, it however has become difficult for new restauran
 
 ## Questions
 • What kind of a food is more popular in a locality
+
 • What are the popular restaurants by location
+
 • Cheapest, highest rated and largely voted restaurants
+
 • Is there a relation between cuisine, location and the cost?
+
 • Expensive, Highest rated and largely voted.
+
 • Which locality of that city serves those cuisines with maximum number of restaurants
+
 • The needs of people who are striving to get the best cuisine of the neighborhood
+
 • Is a particular neighborhood famous for its own kind of food.
